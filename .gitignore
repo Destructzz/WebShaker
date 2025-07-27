@@ -1,0 +1,66 @@
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug*/
+Release*/
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.cache
+*.ilk
+*.log
+*.tlog
+*.tmp
+*.pdb
+*.idb
+*.pch
+*.iobj
+*.ipdb
+*.rsp
+*.trg
+*.sbr
+*.unsuccessfulbuild
+
+## Visual Studio Code
+.vscode/
+
+## CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+## Project-specific
+*.exe
+*.dll
+*.lib
+*.obj
+
+## Others
+*.class
+*.DS_Store
+*.pyc
+*.log
+
+# Ignore generated folders
+BackEndc.d*    # git-generated object folders
+BackEndcppConcheniy    # ярлык
